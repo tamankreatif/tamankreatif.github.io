@@ -12,3 +12,9 @@ thumbs-up
 heartbeat
 heart
 heart-o
+
+# TODO
+
+- [ ] compile stylesheet
+- [ ] add scss support
+- [ ] add coffeescript support

@@ -1,0 +1,27 @@
+.intro {
+  background-color: #FAEBD7;
+  padding-top: 4px;
+  padding-bottom: 1px; }
+
+.intro__angka {
+  color: #c869bf;
+  font-weight: 600; }
+
+.intro__damage {
+  font-style: italic;
+  color: #FF0000; }
+
+.intro__beginning {
+  font-style: italic;
+  color: #C869BF; }
+
+.intro__name {
+  font-weight: 600;
+  color: burlywood; }
+
+.alamat {
+  width: 57%;
+  margin: 0px auto;
+  text-align: center; }
+
+/*# sourceMappingURL=style.css.map */
